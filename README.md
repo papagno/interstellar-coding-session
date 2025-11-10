@@ -4,6 +4,8 @@ In this coding session it's required to adapt the provided codebase so that the 
 
 ## Instructions
 
+- web searches are allowed
+- using AI chatbots is not allowed
 - any library can be imported and used if considered useful
 - general coding best practices must be followed
 
