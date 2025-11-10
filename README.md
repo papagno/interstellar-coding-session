@@ -32,5 +32,5 @@ The codebase contains two folders:
     - price
     - creation date
   - allows to delete a product by clicking on the corresponding row
-- a route `/products` exists which exposes a component showing a paginated table of products
-- when navigating to the home page, the user is redirected to the products page
+- a route `/products` exists which exposes the `ProductsIndexPage` component
+- when navigating to the home page, the user is redirected to `/products`
