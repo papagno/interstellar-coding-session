@@ -4,9 +4,9 @@ In this coding session it's required to adapt the provided codebase so that the 
 
 ## Overview
 
-- the codebase contains two folders:
-  - backend: contains already the `Product` entity with some basic attributes and the `ProductsRepository`
-  - frontend: it's a default project structure created by angular CLI
+The codebase contains two folders:
+- backend: contains already the `Product` entity with some basic attributes and the `ProductsRepository`
+- frontend: it's a default project structure created by angular CLI
 
 ## Instructions
 
