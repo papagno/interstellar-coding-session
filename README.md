@@ -15,14 +15,16 @@ The codebase contains two folders:
 - any library can be imported and used if considered useful
 - general coding best practices must be followed
 
-## Backend
+## Acceptance criteria
+
+### Backend
 
 - the entity `Product` is adapted to store the creation date
 - a REST endpoint is provided to request a paginated list of existing products
 - a REST endpoint is provided to allow the deletion of a product by ID
 - a product can be deleted only if it's price is <= 100.0
 
-## Frontend
+### Frontend
 
 - a new `ProductsIndexPage` component exists which:
   - gets products from the REST APIs
