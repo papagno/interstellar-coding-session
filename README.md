@@ -11,7 +11,7 @@ The codebase contains two folders:
 ## Instructions
 
 - web searches are allowed
-- using AI chatbots is not allowed
+- using AI chatbots is **not** allowed
 - any library can be imported and used if considered useful
 - general coding best practices must be followed
 
