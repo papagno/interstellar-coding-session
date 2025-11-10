@@ -2,6 +2,12 @@
 
 In this coding session it's required to adapt the provided codebase so that the acceptance criteria below are met.
 
+## Overview
+
+- the codebase contains two folders:
+  - backend: contains already the `Product` entity with some basic attributes and the `ProductsRepository`
+  - frontend: it's a default project structure created by angular CLI
+
 ## Instructions
 
 - web searches are allowed
