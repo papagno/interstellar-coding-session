@@ -5,8 +5,8 @@ In this coding session it's required to adapt the provided codebase so that the 
 ## Overview
 
 The codebase contains two folders:
-- backend: contains already the `Product` entity with some basic attributes and the `ProductsRepository`
-- frontend: it's a default project structure created by angular CLI
+- backend: contains already the `Product` entity with some basic attributes and the `ProductsRepository`. Automatically generates 100 random products in memory at start.
+- frontend: it's a default project structure created by angular CLI.
 
 ## Instructions
 
